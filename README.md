@@ -1,12 +1,13 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 2 (Easy: 1, Medium: 1, Hard: 0)
+Solved: 3 (Easy: 1, Medium: 2, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
-| 374 | [Guess Number Higher or Lower](374-guess-number-higher-or-lower/) | Easy | 2026-09-19 |
-| 1552 | [Magnetic Force Between Two Balls](1552-magnetic-force-between-two-balls/) | Medium | 2026-09-19 |
+| 374 | [Guess Number Higher or Lower](374-guess-number-higher-or-lower/) | Easy | 2026-10-04 |
+| 1552 | [Magnetic Force Between Two Balls](1552-magnetic-force-between-two-balls/) | Medium | 2026-10-04 |
+| 540 | [Single Element in a Sorted Array](540-single-element-in-a-sorted-array/) | Medium | 2026-10-04 |
 <!-- LEETHUB:TABLE:END -->
 # 🚀 DSA
 
