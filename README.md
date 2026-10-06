@@ -1,13 +1,14 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 3 (Easy: 1, Medium: 2, Hard: 0)
+Solved: 4 (Easy: 1, Medium: 3, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
-| 374 | [Guess Number Higher or Lower](374-guess-number-higher-or-lower/) | Easy | 2026-10-04 |
-| 1552 | [Magnetic Force Between Two Balls](1552-magnetic-force-between-two-balls/) | Medium | 2026-10-04 |
-| 540 | [Single Element in a Sorted Array](540-single-element-in-a-sorted-array/) | Medium | 2026-10-04 |
+| 374 | [Guess Number Higher or Lower](374-guess-number-higher-or-lower/) | Easy | 2026-10-06 |
+| 1552 | [Magnetic Force Between Two Balls](1552-magnetic-force-between-two-balls/) | Medium | 2026-10-06 |
+| 540 | [Single Element in a Sorted Array](540-single-element-in-a-sorted-array/) | Medium | 2026-10-06 |
+| 74 | [Search a 2D Matrix](74-search-a-2d-matrix/) | Medium | 2026-10-06 |
 <!-- LEETHUB:TABLE:END -->
 # 🚀 DSA
 
